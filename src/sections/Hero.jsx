@@ -15,7 +15,7 @@ const Hero = () => {
             </h1>
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
               Επισκευάζουμε, κατασκευάζουμε και συντηρούμε κάθε είδους
-              υπολογιστή
+              ηλεκτρονικό υπολογιστή
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
               <Button icon="/images/zap.svg">Επικοινωνήστε τώρα</Button>
